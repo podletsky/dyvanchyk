@@ -1,4 +1,4 @@
-name: Build and deploy to GitHub Pages
+https://github.com/podletsky/dyvanchyk.gitname: Build and deploy to GitHub Pages
 
 on:
   push:
